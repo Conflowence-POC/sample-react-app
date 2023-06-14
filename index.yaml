@@ -9,6 +9,6 @@ entries:
     name: react-sample-chart
     type: application
     urls:
-    - react-sample-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/Conflowence-POC/sample-react-app/react-sample-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-13T13:25:13.189972719-05:00"
